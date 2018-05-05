@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "ionic-app",
   "app_id": "79d0913d",
+=======
+  "name": "helloWorld",
+  "app_id": "",
+>>>>>>> 67a3ee9ea689c4bed7658b2e52e0f236c08ca9cd
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
